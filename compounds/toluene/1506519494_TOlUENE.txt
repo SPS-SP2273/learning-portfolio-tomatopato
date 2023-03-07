@@ -1,0 +1,3 @@
+# Wavenumber Transmittence
+3776.00 0.873900
+3781.00 0.874350
